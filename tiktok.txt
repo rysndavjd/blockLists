@@ -67,3 +67,11 @@
 0.0.0.0 hotapi16-normal-useast1a.tiktokv.com
 0.0.0.0 api22-core.tiktokv.com
 0.0.0.0 api16-core.tiktokv.com
+0.0.0.0 mon16-normal-alisg.tiktokv.com
+0.0.0.0 tnc0-normal-useast1a.tiktokv.com
+0.0.0.0 v16m.tiktokcdn.com
+0.0.0.0 search16-normal-c-useast1a.tiktokv.com
+0.0.0.0 sf16-ies-music-va.tiktokcdn.com
+0.0.0.0 v16-cla.tiktokcdn.com
+0.0.0.0 v19-cla.tiktokcdn.com
+0.0.0.0 p16-webcast.tiktokcdn.com
